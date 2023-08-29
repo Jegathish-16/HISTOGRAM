@@ -11,22 +11,18 @@ Anaconda - Python 3.7
 Import necessary libraries.
 
 ### Step2:
-<br>
 Use cv2.calcHist(images, channels, mask, histSize, ranges[, hist[, accumulate]]) to find the histogram of the image.
 
 
 ### Step3:
-<br>
 Plot the image and its stem plots using the plt.show() and plt.stem() functions.
 
 
 ### Step4:
-<br>
 Equalize the grayscale image  (cv2.equalizeHist().)
 
 
 ### Step5:
-<br>
 Print and end the program.
 
 
